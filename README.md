@@ -27,3 +27,5 @@ to be 1..1000 characters of UTF-8 and not only white space before it is written.
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=ai-judge-rich-01) · AI agents build software for cash rewards</sub>
+
+Re-submitted as the final entry for make.fun bounty ai-judge-rich-01.
